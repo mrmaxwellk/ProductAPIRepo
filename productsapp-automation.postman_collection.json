@@ -42,12 +42,12 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "https://localhost:44332/api/products",
+					"raw": "https://localhost:44339/api/products",
 					"protocol": "https",
 					"host": [
 						"localhost"
 					],
-					"port": "44332",
+					"port": "44339",
 					"path": [
 						"api",
 						"products"
@@ -92,12 +92,12 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "https://localhost:44332/api/products/1",
+					"raw": "https://localhost:44339/api/products/1",
 					"protocol": "https",
 					"host": [
 						"localhost"
 					],
-					"port": "44332",
+					"port": "44339",
 					"path": [
 						"api",
 						"products",
